@@ -4,7 +4,7 @@
 
 ## Use template
 
-Just click on `use template` button :-)
+Just click on `Use this template` button to make your project :-)
 
 ## Install
 Clone the repo:
