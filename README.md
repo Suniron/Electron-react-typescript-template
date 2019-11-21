@@ -2,6 +2,10 @@
 
 #### This repository takes reference from the [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate).
 
+## Use template
+
+Just click on `use template` button :-)
+
 ## Install
 Clone the repo:
 
